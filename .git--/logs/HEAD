@@ -1,0 +1,37 @@
+0000000000000000000000000000000000000000 9d79ee0dcf1217b42e292a6296bf9645cd63ab05 Rami Mohammed <rami@360ground.com> 1652096167 +0300	commit (initial): Intialization
+9d79ee0dcf1217b42e292a6296bf9645cd63ab05 d275c952aadda713c099aeab8e301302f2bab37d kalkidan360g <kalkidan@360ground.com> 1652168359 +0300	commit: bot setup
+d275c952aadda713c099aeab8e301302f2bab37d b25907c7043d511baa95db5e8ab0753c17f1d877 kalkidan360g <kalkidan@360ground.com> 1652273211 +0300	commit: completed - show days, choose by show days
+b25907c7043d511baa95db5e8ab0753c17f1d877 444c246bdc6efacdf1b3e2d3b7b719cae986d733 kalkidan360g <kalkidan@360ground.com> 1652277452 +0300	commit: V-1 Completed, up to redirection/booking a seat
+444c246bdc6efacdf1b3e2d3b7b719cae986d733 b6e5102d90e953266b3576cc962f834454c2bba4 kalkidan360g <kalkidan@360ground.com> 1652278014 +0300	commit: V-1 Completed, up to redirection/booking a seat
+b6e5102d90e953266b3576cc962f834454c2bba4 3765e8f36496fcd1a0e3dc7d357aeeb1b6a9b920 kalkidan360g <kalkidan@360ground.com> 1652278583 +0300	commit: heroku first deploy test
+3765e8f36496fcd1a0e3dc7d357aeeb1b6a9b920 612d0ff6994a5dd44d6d5cbd76a04ad2d21c037d kalkidan360g <kalkidan@360ground.com> 1652279006 +0300	commit: minor change
+612d0ff6994a5dd44d6d5cbd76a04ad2d21c037d 73e9c68a5e12e39c3959409bd9e5fbd5e446e026 kalkidan360g <kalkidan@360ground.com> 1652860785 +0300	commit: Clean up & code refactor for new user auth api
+73e9c68a5e12e39c3959409bd9e5fbd5e446e026 2c97cb424f9f719741006836f03423a75cc6352c kalkidan360g <kalkidan@360ground.com> 1652860951 +0300	commit: remove unnecessary files
+2c97cb424f9f719741006836f03423a75cc6352c ab575902558a2170806b0ad5337dd81d7d47c0e9 kalkidan360g <kalkidan@360ground.com> 1652861542 +0300	commit: Minor modifications to 'onMessage.js'
+ab575902558a2170806b0ad5337dd81d7d47c0e9 7d42beaace7b6af4f8119ab8ab120c43fad8b044 kalkidan360g <kalkidan@360ground.com> 1652861829 +0300	pull origin: Fast-forward
+7d42beaace7b6af4f8119ab8ab120c43fad8b044 ef88fd995d8f729491664c66c0a2156f3f7afdd7 kalkidan360g <kalkidan@360ground.com> 1652879184 +0300	commit: heroku push v1 2
+ef88fd995d8f729491664c66c0a2156f3f7afdd7 ce4b9a93b8353616ea8ad89f2dd8f5daa4c6d986 kalkidan360g <kalkidan@360ground.com> 1652881272 +0300	commit: heroku push v1 2
+ce4b9a93b8353616ea8ad89f2dd8f5daa4c6d986 c973cfb1e17515ae4db19d13a3efca2723acdb6a kalkidan360g <kalkidan@360ground.com> 1652881439 +0300	commit: heroku push v1 2
+c973cfb1e17515ae4db19d13a3efca2723acdb6a 752fd35fae7d3f44e52263a8b4d7dd8b12308d69 kalkidan360g <kalkidan@360ground.com> 1652969073 +0300	commit: Convert polling to webhook
+752fd35fae7d3f44e52263a8b4d7dd8b12308d69 55999c6cfb7aa19ff64871469caac37871a0fe5d kalkidan360g <kalkidan@360ground.com> 1652969177 +0300	commit: Convert polling to webhook + heroku
+55999c6cfb7aa19ff64871469caac37871a0fe5d 1d99e641677a89627e8fd5eee92787edb81f0bd8 kalkidan360g <kalkidan@360ground.com> 1652969235 +0300	commit: Convert polling to webhook + heroku
+1d99e641677a89627e8fd5eee92787edb81f0bd8 6549e85146e902d4ab3d9a6a3596bdc847873aad kalkidan360g <kalkidan@360ground.com> 1652969314 +0300	commit: Convert polling to webhook + heroku
+6549e85146e902d4ab3d9a6a3596bdc847873aad 9902665e7abcafc94c62d527b7eb6e0dde14fcd5 kalkidan360g <kalkidan@360ground.com> 1652969879 +0300	commit: Convert polling to webhook + heroku
+9902665e7abcafc94c62d527b7eb6e0dde14fcd5 4f545ea155270f0a6ebd58a52f7e55c0ec6cafcc kalkidan360g <kalkidan@360ground.com> 1652970085 +0300	commit: Convert polling to webhook + heroku
+4f545ea155270f0a6ebd58a52f7e55c0ec6cafcc b6107c3e44da7899601601f61173738b45e98bb7 kalkidan360g <kalkidan@360ground.com> 1652970129 +0300	commit: Convert polling to webhook + heroku
+b6107c3e44da7899601601f61173738b45e98bb7 c12432abb7ca1da63b3f67e4df83d0df4df09782 kalkidan360g <kalkidan@360ground.com> 1652970437 +0300	commit: Convert polling to webhook + heroku
+c12432abb7ca1da63b3f67e4df83d0df4df09782 46864e442e8f1de3bac33ddebe5f138e8c93afac kalkidan360g <kalkidan@360ground.com> 1652970531 +0300	commit: Convert polling to webhook + heroku
+46864e442e8f1de3bac33ddebe5f138e8c93afac bda9c9df4b9da289d7cdf0a6e3d5a4d9adc9054d kalkidan360g <kalkidan@360ground.com> 1652970612 +0300	commit: Convert polling to webhook + heroku
+bda9c9df4b9da289d7cdf0a6e3d5a4d9adc9054d e499e0cba842608287d0e70e746e13eff9b9cdff kalkidan360g <kalkidan@360ground.com> 1652970895 +0300	commit: Convert polling to webhook + heroku
+e499e0cba842608287d0e70e746e13eff9b9cdff 4774f2893190514b41ed84d6691c299acfc9169f kalkidan360g <kalkidan@360ground.com> 1652970964 +0300	commit: Convert polling to webhook + heroku
+4774f2893190514b41ed84d6691c299acfc9169f 333af2d0457272b32d8bab4e1b63c8e000506684 kalkidan360g <kalkidan@360ground.com> 1652971049 +0300	commit: Convert polling to webhook + heroku
+333af2d0457272b32d8bab4e1b63c8e000506684 3c6d8b5aa18d93a653feccb438cb23b651755b58 kalkidan360g <kalkidan@360ground.com> 1652971077 +0300	commit: Convert polling to webhook + heroku
+3c6d8b5aa18d93a653feccb438cb23b651755b58 577a2b01de7a6ad9afb53acde1a89de6f0ee737e kalkidan360g <kalkidan@360ground.com> 1652971198 +0300	commit: Convert polling to webhook + heroku
+577a2b01de7a6ad9afb53acde1a89de6f0ee737e 9d3729f7bc3abdcff18a4afef5ac5a8b5e4d0a27 kalkidan360g <kalkidan@360ground.com> 1652971294 +0300	commit: Convert polling to webhook + heroku
+9d3729f7bc3abdcff18a4afef5ac5a8b5e4d0a27 8f8b8d029b257f321ec2fe5e6d528213ef895251 kalkidan360g <kalkidan@360ground.com> 1652971434 +0300	commit: Convert polling to webhook + heroku
+8f8b8d029b257f321ec2fe5e6d528213ef895251 f65fff8cd7876b7a560aea36078e2813fa02ccf8 kalkidan360g <kalkidan@360ground.com> 1653026307 +0300	commit: Convert polling to webhook + heroku
+f65fff8cd7876b7a560aea36078e2813fa02ccf8 f21fc55b385e6e8c460aebd505750f2435234528 kalkidan360g <kalkidan@360ground.com> 1653026459 +0300	commit: Convert polling to webhook + heroku
+f21fc55b385e6e8c460aebd505750f2435234528 ad26663bc34acb039bc259d0480f3d5d105471a1 kalkidan360g <kalkidan@360ground.com> 1653033127 +0300	commit: Convert polling to webhook + heroku
+ad26663bc34acb039bc259d0480f3d5d105471a1 3b5aff8ebfa768feb7a611da50e179466736736b kalkidan360g <kalkidan@360ground.com> 1653033219 +0300	commit: Convert polling to webhook + heroku
+3b5aff8ebfa768feb7a611da50e179466736736b 3d6dec5713c5ff38625e1b6b8f50e8dd88092000 kalkidan360g <kalkidan@360ground.com> 1653034205 +0300	commit: Friday, May 20, 2022, - Webhook + heroku
+3d6dec5713c5ff38625e1b6b8f50e8dd88092000 b4bdc1e232560f45046c133ad95b79df03777fa6 = <=> 1653056470 +0300	commit: Friday, May 20, 2022, - Webhook + heroku
